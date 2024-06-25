@@ -1,10 +1,3 @@
-/*
- * I2C.c
- *
- * Created: 12/12/2023 11:23:41 PM
- *  Author: DELL
- */ 
-
 #include <avr/io.h>
 #define F_CPU 8000000UL
 #include <util/delay.h>
