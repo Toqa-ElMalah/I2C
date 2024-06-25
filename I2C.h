@@ -1,11 +1,3 @@
-/*
- * I2C.h
- *
- * Created: 12/12/2023 11:23:55 PM
- *  Author: DELL
- */ 
-
-
 #ifndef I2C_H_
 #define I2C_H_
 
